@@ -5,4 +5,4 @@ Allow: /
 Disallow: /*.json$
 Disallow: /logo/
 
-Sitemap: https://review-market.fr/sitemap.xml
+Sitemap: https://youlikes.fr/sitemap.xml
